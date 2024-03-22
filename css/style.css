@@ -1,6 +1,9 @@
 *{
     border-radius: border-box;
 }
+html{
+  scroll-behavior: smooth;
+}
 
 body{
     padding: 0px;
@@ -18,6 +21,7 @@ h2,h3,h4,h5,h6{
     color: #444;
     margin: 5px;
 }
+
 a{
     text-decoration: none;
     color: inherit;
